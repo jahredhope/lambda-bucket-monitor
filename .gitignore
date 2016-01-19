@@ -1,0 +1,4 @@
+data.json
+*.zip
+test.js
+node_modules/*

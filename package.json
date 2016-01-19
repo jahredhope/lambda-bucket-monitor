@@ -1,0 +1,14 @@
+{
+  "name": "lambda-bucket-monitor",
+  "version": "1.0.0",
+  "description": "Build app file directory json",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jahred Hope (jahredhope@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.2.22"
+  }
+}
